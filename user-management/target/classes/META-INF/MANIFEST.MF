@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rashu
+Build-Jdk: 17.0.7
+Implementation-Title: user-management
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.sample.usermanagement
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/user-management
+Created-By: Maven Integration for Eclipse
+
